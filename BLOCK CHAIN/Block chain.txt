@@ -1,0 +1,54 @@
+https://github.com/AnishBhandarkar/Block-Chain
+==================================================================
+====================Resources=====================================
+
+https://github.com/blockchainedindia/resources
+
+https://github.com/Envoy-VC/blockend-developer-roadmap
+
+https://github.com/frankiefab100/Blockchain-Development-Resources
+
+https://github.com/protofire/blockchain-learning-path
+
+https://docs.google.com/spreadsheets/d/1hXXaNC4dSRUIyFseY7uqXDmaet0fXy-4IR_MfL3FCUE/edit#gid=0
+
+
+
+===================================================================
+===================================================================
+https://academy.binance.com/en/start-here
+
+https://coinmarketcap.com/
+
+https://www.blockchain.com/explorer/
+
+https://roadmap.sh/blockchain
+
+Remix IDE : https://remix.ethereum.org/#optimize=false&runs=200&evmVersion=null&version=soljson-v0.8.7+commit.e28d00a7.js
+
+
+Metamask Password : zm^^dR1Q46*R
+Secret Recovery Phrase:
+-----------------------
+shed parrot swear remind adult among raw trash force loop praise electric
+
+https://goerlifaucet.com/
+
+https://goerli.etherscan.io/
+
+https://app.infura.io/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
